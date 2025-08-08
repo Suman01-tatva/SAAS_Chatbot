@@ -1,0 +1,15 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+python-dotenv==1.0.0
+requests==2.31.0
+beautifulsoup4==4.12.2
+PyPDF2==3.0.1
+langchain==0.0.400       # pin accordingly; adapt to your environment
+langchain_google_genai==0.0.8
+langchain_community==0.0.35
+langgraph==0.1.0
+celery==5.3.1
+redis==4.6.0
+psycopg2-binary==2.9.7
+sqlalchemy==1.4.51
+python-multipart==0.0.6
